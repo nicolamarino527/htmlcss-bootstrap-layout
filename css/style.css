@@ -3,13 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.custom-height-1 {
-    height: 200px; /* Altezza fissa di 200px */
-  }
-  .custom-height-2 {
-    height: 300px; /* Altezza fissa di 300px */
-  }
-  .custom-height-3 {
-    height: 400px; /* Altezza fissa di 400px */
-  }
